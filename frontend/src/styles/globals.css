@@ -1,0 +1,8 @@
+/* styles/globals.css or module CSS if you're using it */
+nav.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    background-color: white;
+  }
+  
